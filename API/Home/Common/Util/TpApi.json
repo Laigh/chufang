@@ -1,0 +1,120 @@
+{
+	"controller" :{
+
+		// 注册接口
+		"POST /user/signup" :{
+			"__desc__" : "注册接口",
+			"request" :{
+				" user_name" 		: "用户名",
+				" password" 		: "密码"
+			}
+		},
+
+		// 登录接口
+		"POST /user/signin" :{
+			"__desc__" : "登录接口",
+			"request" :{
+				" user_name" 		: "用户名",
+				" password" 		: "密码"
+			}
+		},
+
+		// 订单保存
+		"POST /order/save" :{
+			"__desc__" : "订单保存",
+			"request" :{
+				" sufferer_info" 			: "患者信息",
+				" goods_list" 				: "商品信息",
+				" order_info" 				: "订单信息"
+			}
+		},
+
+		// 获取地区
+		"POST /order/region" :{
+			"__desc__" : "获取地区",
+			"request" :{
+				" parent_id"  : "地区ID"
+			}
+		},
+
+		// 取得订单列表
+		"POST /order/order_list" :{
+			"__desc__" : "电话关联患者信息",
+			"request" :{
+				" type"  		: "订单状态",
+				" page"  		: "页面",
+				" page_site"  	: "查询数量"
+			}
+		},
+
+		// 电话关联患者信息
+		"POST /order/relation_tel" :{
+			"__desc__" : "电话关联患者信息",
+			"request" :{
+				" tel" 				: "关联电话"
+			}
+		},
+
+		// 拍照上传
+		"POST /order/photo_order" :{
+			"__desc__" : "图片上传",
+			"request" :{
+				" consulting_fee" 		: "咨询费用",
+				" shipping_id" 			: "配送ID",
+				" remark" 				: "备注",
+				" images_list" 			: "处方药图片"
+			}
+		},
+
+		// 订单详情
+		"POST /order/order_detail" :{
+			"__desc__" : "订单详情",
+			"request" :{
+				" order_id" 		: "订单ID"
+			}
+		},
+
+		// 取得配送列表
+		"POST /order/shipping_list" :{
+			"__desc__" : "电话关联患者信息",
+			"request" :{
+			}
+		},
+
+		// 模板列表
+		"POST /template/template_list" :{
+			"__desc__" : "模板列表",
+			"request" :{
+				" user_id" 			: "用户ID"
+			}
+		},
+
+		// 创建/修改 模板
+		"POST /template/create_template" :{
+			"__desc__" : "添加模板",
+			"request" :{
+				" template_id" 			: "模板ID",
+				" template_name" 		: "模板名",
+				" remarks" 				: "备注",
+				" goods_list" 			: "商品数组"
+			}
+		},
+
+		// 模板信息
+		"POST /template/template_detail" :{
+			"__desc__" : "模板信息",
+			"request" :{
+				" template_id" 			: "模板ID"
+			}
+		},
+
+		// 删除模板
+		"POST /template/remove_template" :{
+			"__desc__" : "删除模板",
+			"request" :{
+				" template_id" 			: "模板ID"
+			}
+		}
+
+	}
+}

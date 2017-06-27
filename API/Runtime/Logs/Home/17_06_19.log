@@ -1,0 +1,2215 @@
+[ 2017-06-19T08:48:13+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.096005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020001s ]
+
+[ 2017-06-19T12:10:36+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T12:11:31+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T12:11:32+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T12:12:43+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T12:13:56+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:28:43+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T14:28:49+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:28:59+08:00 ] 127.0.0.1 /index.php/Home/user/signin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_users` [ RunTime:0.0490s ]
+SQL: SELECT `user_id`,`password`,`salt`,`visit_count` FROM `cf_users` WHERE ( user_name='lgh' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `cf_users` SET `salt`='74573',`user_name`='lgh',`password`='8c8bafd6ae61662b0be608802ab141ab',`last_ip`='127.0.0.1',`visit_count`='14',`last_time`='2017-06-19 14:28:59' WHERE ( user_id='1' ) [ RunTime:0.0020s ]
+
+[ 2017-06-19T14:29:04+08:00 ] 127.0.0.1 /index.php/Home/user/signin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_users` [ RunTime:0.0080s ]
+SQL: SELECT `user_id`,`password`,`salt`,`visit_count` FROM `cf_users` WHERE ( user_name='lgh' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-19T14:30:15+08:00 ] 127.0.0.1 /index.php/Home/user/signin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_users` [ RunTime:0.0070s ]
+SQL: SELECT `user_id`,`password`,`salt`,`visit_count` FROM `cf_users` WHERE ( user_name='lgh' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-19T14:30:19+08:00 ] 127.0.0.1 /index.php/Home/user/signin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_users` [ RunTime:0.0070s ]
+SQL: SELECT `user_id`,`password`,`salt`,`visit_count` FROM `cf_users` WHERE ( user_name='lgh' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cf_users` SET `salt`='43875',`user_name`='lgh',`password`='dcf14bb00b851217b35449ea0bf7391f',`last_ip`='127.0.0.1',`visit_count`='15',`last_time`='2017-06-19 14:30:19' WHERE ( user_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T14:30:29+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set() expects exactly 2 parameters, 1 given E:\WWW\chufang\API\Home\Controller\TemplateController.class.php 第 80 行.
+
+[ 2017-06-19T14:31:26+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T14:31:47+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:31:48+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T14:31:49+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:32:31+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:32:32+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:32:49+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:32:50+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:32:51+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T14:33:26+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:34:02+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:48:37+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-19T14:51:38+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T14:52:20+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0070s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T14:52:27+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0120s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T14:58:27+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T14:59:25+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0070s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined variable: template_id E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 67 行.
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:00:12+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0120s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: template_id E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 67 行.
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:00:22+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0170s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0160s ]
+NOTIC: [8] Undefined variable: template_id E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 67 行.
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:00:45+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0140s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:02:03+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:02:11+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T15:02:19+08:00 ] 127.0.0.1 /index.php/Home/user/signin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_users` [ RunTime:0.0090s ]
+SQL: SELECT `user_id`,`password`,`salt`,`visit_count` FROM `cf_users` WHERE ( user_name='lgh' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cf_users` SET `salt`='71615',`user_name`='lgh',`password`='4c6f498e546ea55dcedf1a9425c7594c',`last_ip`='127.0.0.1',`visit_count`='16',`last_time`='2017-06-19 15:02:19' WHERE ( user_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:02:25+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0070s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:02:33+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:02:34+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:02:37+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:02:39+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:02:40+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0070s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:02:41+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:03:07+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:18:25+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:19:03+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:19:11+08:00 ] 127.0.0.1 /index.php/home/apitest/3?template_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:3
+
+[ 2017-06-19T15:19:28+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:19:57+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:19:57' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 16 行.
+NOTIC: [8] Undefined variable: arr E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 29 行.
+
+[ 2017-06-19T15:20:45+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0140s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:20:45' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 16 行.
+NOTIC: [8] Undefined variable: arr E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 30 行.
+
+[ 2017-06-19T15:21:11+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0160s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:21:11' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 16 行.
+NOTIC: [8] Undefined variable: arr E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 31 行.
+
+[ 2017-06-19T15:21:37+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:21:37' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 16 行.
+NOTIC: [8] Undefined variable: arr E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 31 行.
+
+[ 2017-06-19T15:22:10+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:22:10' WHERE ( template_id='1' ) [ RunTime:0.0020s ]
+
+[ 2017-06-19T15:22:54+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0140s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:22:54' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:23:06+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:23:06' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:23:33+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:23:33' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:23:44+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:23:44' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:24:14+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0150s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:24:14' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T15:24:15+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='感冒模板',`remarks`='重感冒使用',`user_id`='1',`update_time`='2017-06-19 15:24:15' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T15:25:37+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:37:12+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:37:15+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:37:33+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:37:54+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:38:08+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:38:32+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T15:48:05+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T15:48:06+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T15:54:15+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T15:54:19+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:01:50+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgdf',`remarks`='dfgdsfgdsfg',`user_id`='1',`update_time`='2017-06-19 16:01:50' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:02:05+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0190s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgdf',`remarks`='dfgdsfgdsfg',`user_id`='1',`update_time`='2017-06-19 16:02:05' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:03:04+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgdf',`remarks`='dfgdsfgdsfg',`user_id`='1',`update_time`='2017-06-19 16:03:03' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:04:45+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:05:36+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T16:05:42+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:05:51+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0200s ]
+SQL: UPDATE `cf_template` SET `template_name`='fgdsf',`remarks`='fgdsfg',`user_id`='1',`update_time`='2017-06-19 16:05:51' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:06:47+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T16:09:34+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:10:06+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:11:58+08:00 ] 127.0.0.1 /index.php/home/apitest/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: server E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\chufang\API\Home\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:12:06+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0120s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:12:06' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:12:19+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0160s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:12:19' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:15:43+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:15:43' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:19:29+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:29' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:30+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:30' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:30+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:30' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:30+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:30' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:30+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:30' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:19:30+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:30' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:19:30+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:30' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:31+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:31' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:45+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:45' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:54+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:53' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:54+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:54' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:19:54+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:19:54' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:24:05+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:25:00+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:25:23+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:25:23' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:25:33+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:25:33' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:25:47+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:25:47' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:26:14+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T16:27:00+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:28:10+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:30:09+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:30:26+08:00 ] 127.0.0.1 /index.php/Home/template/template_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: SELECT `template_id`,`template_name`,`remarks` FROM `cf_template` WHERE ( template_id='1' and user_id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:31:51+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:31:51' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:32:47+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:32:47' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:33:10+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:33:10' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:36:15+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:36:15' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:36:22+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:36:22' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:36:54+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:37:50+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T16:37:59+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:37:59' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:38:40+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:38:40' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:39:54+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:39:54' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:40:27+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T16:41:04+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:41:04' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:45:41+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:45:41' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:46:01+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:46:01' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:46:53+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:46:53' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:50:47+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:50:47' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T16:51:32+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0160s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:51:32' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:52:24+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:53:01+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T16:53:57+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T16:54:19+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0250s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:54:19' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:54:45+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:54:45' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:55:04+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:55:04' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:56:04+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0190s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 16:56:04' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T16:56:18+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T17:04:44+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0120s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:04:44' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T17:04:56+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:04:56' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:05:19+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:05:32+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:05:48+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T17:06:00+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:06:50+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:07:03+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:07:49+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:07:49' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:08:09+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0160s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:08:09' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:08:32+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:08:32' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: goods_list E:\WWW\chufang\API\Home\Controller\TemplateController.class.php 第 52 行.
+
+[ 2017-06-19T17:08:40+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:08:40' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:09:32+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:10:19+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:11:00+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T17:11:10+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:11:17+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:11:46+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T17:12:11+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T17:14:22+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:16:00+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:16:21+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:16:49+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:17:49+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-19T17:17:57+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-19T17:18:56+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:18:56' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE `rec_id` = 0  [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:19:50+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:19:50' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T17:20:04+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:20:04' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE `rec_id` = 0  [ RunTime:0.0000s ]
+
+[ 2017-06-19T17:22:42+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0160s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:22:42' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE `rec_id` = 0  [ RunTime:0.0000s ]
+
+[ 2017-06-19T17:22:53+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0160s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:22:53' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE `rec_id` = 0  [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:23:41+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:23:41' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0110s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:24:08+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:24:08' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0110s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T17:24:41+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0120s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:24:41' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0140s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:26:49+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:26:49' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0110s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T17:27:00+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:27:00' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:32:03+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:32:03' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0140s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:33:17+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0080s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:33:17' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T17:33:37+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:33:37' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+
+[ 2017-06-19T17:33:42+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0140s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 17:33:42' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0150s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T18:17:31+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 18:17:31' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0100s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T18:19:47+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 18:19:46' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0100s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+NOTIC: [2] array_uintersect(): at least 3 parameters are required, 2 given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 47 行.
+
+[ 2017-06-19T18:22:24+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0090s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 18:22:24' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0100s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T18:31:19+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 18:31:19' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0110s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T18:31:25+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 18:31:25' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0100s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T18:31:49+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0140s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 18:31:48' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0130s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T18:48:31+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 18:48:31' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+SQL: DELETE FROM `cf_template_goods` WHERE ( template_id='1' and goods_id in(50,51,52,53) ) [ RunTime:0.0000s ]
+
+[ 2017-06-19T19:03:07+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:03:07' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T19:04:26+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0200s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:04:26' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0140s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T19:05:33+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:05:32' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0130s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T19:06:02+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:06:02' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 59 行.
+
+[ 2017-06-19T19:22:20+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:22:20' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T19:23:01+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0240s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:23:01' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0100s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T19:23:15+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0140s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:23:15' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0150s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+
+[ 2017-06-19T19:23:48+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0110s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:23:48' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0120s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T19:25:40+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0120s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 19:25:40' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT `goods_id` FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+SQL: INSERT INTO `cf_template_goods` (`template_id`,`goods_id`,`goods_name`,`goods_attr`,`goods_number`,`goods_type`,`goods_unit`) VALUES ('1','56','商品名称','20克颗粒','2','2','包'),('1','57','商品名称','20克颗粒','2','2','包'),('1','58','商品名称','20克颗粒','2','2','包'),('1','59','商品名称','20克颗粒','2','2','包') [ RunTime:0.0010s ]
+
+[ 2017-06-19T20:41:56+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024002s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0190s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 20:41:56' WHERE ( template_id='1' ) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+
+[ 2017-06-19T20:54:40+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0100s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 20:54:40' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+
+[ 2017-06-19T20:54:50+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0130s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 20:54:50' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+
+[ 2017-06-19T20:55:04+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0150s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 20:55:04' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0000s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+
+[ 2017-06-19T20:57:20+08:00 ] 127.0.0.1 /index.php/Home/template/create_template
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cf_template` [ RunTime:0.0170s ]
+SQL: UPDATE `cf_template` SET `template_name`='dfgsd',`remarks`='sdfgsdfg',`user_id`='1',`update_time`='2017-06-19 20:57:19' WHERE ( template_id='1' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cf_template_goods` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `cf_template_goods` WHERE ( template_id='1' )  [ RunTime:0.0010s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given E:\WWW\chufang\API\Home\Model\TemplateModel.class.php 第 57 行.
+

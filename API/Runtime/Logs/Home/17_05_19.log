@@ -1,0 +1,88 @@
+[ 2017-05-19T10:12:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016450s ]
+
+[ 2017-05-19T10:17:35+08:00 ] 127.0.0.1 /index.php/Home/Examination/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+ERR: 参数错误或者未定义:schemeId
+
+[ 2017-05-19T10:19:18+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-19T11:08:25+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow%EF%BC%9FoptionId=eo000000uutk2jui
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+ERR: 非法操作:getRow？optionId=eo000000uutk2jui
+
+[ 2017-05-19T11:09:10+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow%EF%BC%9FoptionId=eo000000uutk2jui
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+ERR: 非法操作:getRow？optionId=eo000000uutk2jui
+
+[ 2017-05-19T11:09:25+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow?optionId=eo000000uutk2jui
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-05-19T11:09:37+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow?optionId=eo000000uutk2jui
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( optionId='eo000000uutk2jui' AND old='0' ) LIMIT 1   [ RunTime:0.0202s ]
+NOTIC: [8] Undefined index: optionAttrs D:\phpStudy\WWW\weichan\API\Home\Controller\ExaminationOptionController.class.php 第 77 行.
+
+[ 2017-05-19T11:10:14+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow?optionId=eo000000uutk2jui
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( optionId='eo000000uutk2jui' AND old='0' ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: optionAttrs D:\phpStudy\WWW\weichan\API\Home\Controller\ExaminationOptionController.class.php 第 76 行.
+
+[ 2017-05-19T11:33:03+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow?optionId=eo000000uutk2jui
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( optionId='eo000000uutk2jui' AND old='0' ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: optionAttrs D:\phpStudy\WWW\weichan\API\Home\Controller\ExaminationOptionController.class.php 第 76 行.
+

@@ -1,0 +1,72 @@
+body{
+	font-size: 20px;
+	width: 750px;
+	margin: 0 38%;
+	padding-top: 20px;
+	color: #333;
+	background-color: #FFF;
+
+}
+table{
+	border-color: #333;
+}
+td{
+	padding: 5px;
+}
+input{
+	height: 30px;
+	margin-right: 5px;
+	text-indent: 2px;
+	width: 140%;
+}
+input[type='text']{
+	border: 1px solid #90d5fd;
+}
+select,textarea{
+	border: 1px solid #90d5fd;
+	background-color: #ffffcc;
+	color: #000000;
+	font-size: 14px;
+	height:28px;
+	width:32%;
+}
+.align{
+	text-align:right;
+	width:150px;
+}
+.canshu{
+	font-family: 华文楷体;
+	font-weight: bold;
+}
+.parms_div{
+	clear: both;
+	width: 100%;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.parms_div button{
+	background: #90d5fd;
+	border: 1px solid #90d5fd;
+	font-size: 18px;
+	font-weight: bold;
+	cursor: pointer;
+	color:#FFFFE1;
+	height: 35px;
+	margin-left: 35%;
+	width: 70px;
+	text-align: center;
+}
+.parms_div span{
+	float: left;
+	font-family: 华文楷体;
+	font-weight: bold;
+}
+
+.result {
+	width:800px;
+	height:500px;
+	border: 1px solid #333;
+	border-radius: 5px;
+}
+
+

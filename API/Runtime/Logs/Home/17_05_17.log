@@ -1,0 +1,110 @@
+[ 2017-05-17T14:55:06+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0217s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0296s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 16,20   [ RunTime:0.0147s ]
+
+[ 2017-05-17T14:55:41+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+ERR: 参数错误或者未定义:examinationName
+
+[ 2017-05-17T14:56:24+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0705s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0037s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("11")  )  [ RunTime:0.0144s ]
+
+[ 2017-05-17T14:56:35+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+ERR: 参数错误或者未定义:options
+
+[ 2017-05-17T14:56:41+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0027s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("xx")  )  [ RunTime:0.0002s ]
+
+[ 2017-05-17T14:56:48+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/''/options/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0070s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("xx")  )  [ RunTime:0.0003s ]
+
+[ 2017-05-17T14:57:12+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/''/options/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-05-17T14:57:40+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-05-17T14:58:03+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options/xx/schemeId
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-05-17T14:58:06+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options/xx/schemeId
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-05-17T14:58:10+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options/xx/schemeId/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-05-17T14:58:13+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/22/options/xx/schemeId/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+

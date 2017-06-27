@@ -1,0 +1,353 @@
+[ 2017-05-24T14:36:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: server E:\WWW\weichan\API\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\weichan\API\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-24T15:28:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: server E:\WWW\weichan\API\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\weichan\API\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.029002s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.029002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.023001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.033002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034002s ]
+
+[ 2017-05-24T15:51:12+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T15:54:24+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0170s ]
+SQL: INSERT INTO `t_examination_option` (`createTime`) VALUES ('1495612464') [ RunTime:0.0440s ]
+
+[ 2017-05-24T15:55:22+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: INSERT INTO `t_current_status` (`perinatalId`,`createTime`,`optionValues`,`options`,`images`) VALUES ('fgsd','1495612522','dgsdfgdsfg','fgsdfgsdfg','http://www.weichan.com/Uploads/images/2017-05-24/59253c6a0b949.jpg') [ RunTime:0.0690s ]
+
+[ 2017-05-24T16:27:29+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_current_status` WHERE ( perinatalId='fgsd' )  [ RunTime:0.0010s ]
+
+[ 2017-05-24T16:28:05+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-24T16:28:21+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-24T16:32:10+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='fgsd',`createTime`='1495614730',`optionValues`='dgsdfgdsfg',`options`='fgsdfgsdfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/5925450aca178.jpg' WHERE ( perinatalId='fgsd' ) [ RunTime:0.0780s ]
+
+[ 2017-05-24T16:32:17+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='fgsd',`createTime`='1495614737',`optionValues`='dgsdfgdsfg',`options`='fgsdfgsdfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/592545113aa07.jpg' WHERE ( perinatalId='fgsd' ) [ RunTime:0.0480s ]
+
+[ 2017-05-24T16:32:33+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='fgsd',`createTime`='1495614753',`optionValues`='dgsdfgdsfg',`options`='fgsdfgsdfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/59254521c5492.jpg' WHERE ( perinatalId='fgsd' ) [ RunTime:0.0770s ]
+
+[ 2017-05-24T16:32:36+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='fgsd',`createTime`='1495614756',`optionValues`='dgsdfgdsfg',`options`='fgsdfgsdfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/592545247444b.jpg' WHERE ( perinatalId='fgsd' ) [ RunTime:0.0750s ]
+
+[ 2017-05-24T16:32:37+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='fgsd',`createTime`='1495614757',`optionValues`='dgsdfgdsfg',`options`='fgsdfgsdfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/59254525bf3ce.jpg' WHERE ( perinatalId='fgsd' ) [ RunTime:0.0760s ]
+
+[ 2017-05-24T16:32:46+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsd' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='fgsd',`createTime`='1495614766',`optionValues`='dgsdfgdsfg1111',`options`='fgsdfgsdfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/5925452ebcad8.jpg' WHERE ( perinatalId='fgsd' ) [ RunTime:0.0530s ]
+
+[ 2017-05-24T16:33:04+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsdffff' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_current_status` (`perinatalId`,`createTime`,`optionValues`,`options`,`images`) VALUES ('fgsdffff','1495614784','dgsdfgdsfg1111','fgsdfgsdfg','http://www.weichan.com/Uploads/images/2017-05-24/592545400e1d5.jpg') [ RunTime:0.0730s ]
+
+[ 2017-05-24T16:33:44+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 35 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='fgsdffff' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='fgsdffff',`createTime`='1495614824',`optionValues`='dgsdfgdsfg1111',`options`='fgsdfgsdfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/5925456856b2d.jpg' WHERE ( perinatalId='fgsdffff' ) [ RunTime:0.0810s ]
+
+[ 2017-05-24T19:13:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+NOTIC: [8] Undefined index: server E:\WWW\weichan\API\Common\Util\TpApi.class.php 第 28 行.
+NOTIC: [8] Undefined index: model E:\WWW\weichan\API\Common\Util\TpApi.class.php 第 29 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.046002s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.047002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.162009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.162009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.043003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.043003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034002s ]
+
+[ 2017-05-24T19:14:09+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-05-24T19:14:35+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0390s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `t_current_status` (`perinatalId`,`optionValues`,`options`,`images`,`createTime`) VALUES ('dfgdfgf','dfgsdfg','dfgdsfg','http://www.weichan.com/Uploads/images/2017-05-24/59256b1bb9569.jpg','1495624475922') [ RunTime:0.0520s ]
+
+[ 2017-05-24T20:40:35+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='dfgdfgf',`optionValues`='dfgsdfg',`options`='dfgdsfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/59257f439bd42.jpg',`modifyTime`='1495629635662' WHERE ( perinatalId='dfgdfgf' ) [ RunTime:0.0820s ]
+
+[ 2017-05-24T20:56:48+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT `images` FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-24T20:59:31+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0030s ]
+SQL: SELECT `images` FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='dfgdfgf',`optionValues`='dfgsdfg',`options`='dfgdsfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/592583b33873a.jpg',`modifyTime`='1495630771248' WHERE ( perinatalId='dfgdfgf' ) [ RunTime:0.0750s ]
+NOTIC: [2] strpos() expects parameter 3 to be long, string given E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 59 行.
+
+[ 2017-05-24T20:59:32+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT `images` FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='dfgdfgf',`optionValues`='dfgsdfg',`options`='dfgdsfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/592583b4d0547.jpg',`modifyTime`='1495630772869' WHERE ( perinatalId='dfgdfgf' ) [ RunTime:0.0910s ]
+NOTIC: [2] strpos() expects parameter 3 to be long, string given E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 59 行.
+
+[ 2017-05-24T21:00:14+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0030s ]
+SQL: SELECT `images` FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='dfgdfgf',`optionValues`='dfgsdfg',`options`='dfgdsfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/592583decf351.jpg',`modifyTime`='1495630814863' WHERE ( perinatalId='dfgdfgf' ) [ RunTime:0.0650s ]
+
+[ 2017-05-24T21:01:24+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0030s ]
+SQL: SELECT `images` FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='dfgdfgf',`optionValues`='dfgsdfg',`options`='dfgdsfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/59258424507df.jpg',`modifyTime`='1495630884351' WHERE ( perinatalId='dfgdfgf' ) [ RunTime:0.0660s ]
+
+[ 2017-05-24T21:01:43+08:00 ] 127.0.0.1 /index.php/Home/CurrentStatus/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] Non-static method Common\Util\Images::upload_img() should not be called statically, assuming $this from incompatible context E:\WWW\weichan\API\Home\Controller\CurrentStatusController.class.php 第 36 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\weichan\thinkphp\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `t_current_status` [ RunTime:0.0040s ]
+SQL: SELECT `images` FROM `t_current_status` WHERE ( perinatalId='dfgdfgf' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `t_current_status` SET `perinatalId`='dfgdfgf',`optionValues`='dfgsdfg',`options`='dfgdsfg',`images`='http://www.weichan.com/Uploads/images/2017-05-24/59258437cf793.jpg',`modifyTime`='1495630903917' WHERE ( perinatalId='dfgdfgf' ) [ RunTime:0.0490s ]
+

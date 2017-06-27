@@ -1,0 +1,2345 @@
+[ 2017-05-13T09:50:21+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002430s ]
+ERR: 参数错误或者未定义:typeId
+
+[ 2017-05-13T09:50:39+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0292s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0233s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 0,20   [ RunTime:0.0003s ]
+
+[ 2017-05-13T09:51:33+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001434s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0106s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-13T09:52:35+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-13T09:52:39+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0107s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 17,20   [ RunTime:0.0007s ]
+
+[ 2017-05-13T09:52:44+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0097s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 16,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:52:48+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0096s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:53:10+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0124s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 16,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:53:20+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0367s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 17,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:53:25+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0101s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 16,20   [ RunTime:0.0007s ]
+
+[ 2017-05-13T09:53:29+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0772s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 17,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:54:29+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0037s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 16,20   [ RunTime:0.0002s ]
+
+[ 2017-05-13T09:57:15+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 4,20   [ RunTime:0.0003s ]
+
+[ 2017-05-13T09:57:21+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0108s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:57:29+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0146s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 14,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:57:37+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0102s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-13T09:58:21+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15/limit/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0151s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,2   [ RunTime:0.0007s ]
+
+[ 2017-05-13T09:58:28+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15/limit/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0107s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,3   [ RunTime:0.0007s ]
+
+[ 2017-05-13T09:58:33+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15/limit/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0115s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,1   [ RunTime:0.0010s ]
+
+[ 2017-05-13T09:58:40+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15/limit/00
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0096s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,0   [ RunTime:0.0005s ]
+
+[ 2017-05-13T09:58:44+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15/limit/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0104s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15   [ RunTime:0.0007s ]
+
+[ 2017-05-13T09:59:40+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15/limit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0107s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T09:59:46+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getOptionTypes/offset/15/limit/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `t_option_type` [ RunTime:0.0109s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_option_type` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `typeId`,`name` FROM `t_option_type` LIMIT 15,1   [ RunTime:0.0006s ]
+
+[ 2017-05-13T10:03:05+08:00 ] 127.0.0.1 /index.php/Home/OptionType/getExaminationOption/offset/15/limit/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+ERR: 非法操作:getExaminationOption
+
+[ 2017-05-13T10:03:53+08:00 ] 127.0.0.1 /index.php/Home/getExaminationOption/getOptionTypes/offset/15/limit/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+ERR: 无法加载控制器:GetExaminationOption
+
+[ 2017-05-13T10:04:45+08:00 ] 127.0.0.1 /index.php/Home/getExaminationOption/getRows/offset/15/limit/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载控制器:GetExaminationOption
+
+[ 2017-05-13T10:04:59+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/15/limit/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0564s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0435s ]
+
+[ 2017-05-13T10:05:09+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0119s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T10:05:59+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0112s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0009s ]
+
+[ 2017-05-13T10:06:14+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0098s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 2,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T10:06:21+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0148s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 5,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T10:06:37+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0104s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 6,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T10:06:49+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0104s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1,20' at line 1
+ [ SQL语句 ] : SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT -1,20  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1,20' at line 1
+ [ SQL语句 ] : SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT -1,20  
+
+[ 2017-05-13T10:07:40+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0082s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0005s ]
+
+[ 2017-05-13T10:07:54+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/0.5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0105s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0007s ]
+
+[ 2017-05-13T10:08:01+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/0.8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0105s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T10:08:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/0.8/limit/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0108s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,2   [ RunTime:0.0009s ]
+
+[ 2017-05-13T10:08:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/1.8/limit/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0151s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 1,2   [ RunTime:0.0005s ]
+
+[ 2017-05-13T10:10:21+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/1.8/limit/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0152s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 1,2   [ RunTime:0.0009s ]
+
+[ 2017-05-13T10:10:30+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows/offset/-1.8/limit/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0111s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,2   [ RunTime:0.0005s ]
+
+[ 2017-05-13T11:16:55+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+ERR: 参数错误或者未定义:optionAttrs
+
+[ 2017-05-13T11:17:13+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+
+[ 2017-05-13T11:17:58+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-05-13T11:17:59+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-05-13T11:18:00+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+
+[ 2017-05-13T11:18:01+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-05-13T11:18:03+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-05-13T11:35:29+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-05-13T11:36:15+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021458s ]
+
+[ 2017-05-13T11:36:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2017-05-13T11:36:19+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2017-05-13T11:36:19+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-05-13T11:36:34+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-05-13T11:36:40+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+
+[ 2017-05-13T11:36:54+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-05-13T11:38:12+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+
+[ 2017-05-13T11:38:28+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-05-13T11:38:29+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-05-13T11:38:31+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+NOTIC: [2] Illegal string offset 'opType' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 147 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-05-13T11:40:11+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+
+[ 2017-05-13T11:40:30+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-05-13T11:40:31+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2017-05-13T12:04:43+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-05-13T12:05:57+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001178s ]
+
+[ 2017-05-13T12:06:42+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-05-13T12:06:57+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/checkOptionAttrs/optionAttrs/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-05-13T12:11:44+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T12:12:45+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0110s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494648765068',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvvmr8vqlff' ) [ RunTime:0.0745s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo000000thvr5tus','1494648765251',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0334s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 53 行.
+
+[ 2017-05-13T12:12:48+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0085s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494648768803',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvvmr8vqlff' ) [ RunTime:0.0481s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo0000014lb1fjk1','1494648768853',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0227s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 53 行.
+
+[ 2017-05-13T12:13:23+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-05-13T12:14:32+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0155s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494648872236',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0728s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvveniljq9n','1494648872313',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0193s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 53 行.
+
+[ 2017-05-13T12:16:42+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+
+[ 2017-05-13T12:17:10+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0063s ]
+
+[ 2017-05-13T12:17:12+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0135s ]
+
+[ 2017-05-13T12:17:19+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0121s ]
+
+[ 2017-05-13T12:18:03+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0126s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649083112',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0271s ]
+
+[ 2017-05-13T12:18:07+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0123s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649087848',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0416s ]
+
+[ 2017-05-13T12:18:28+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0119s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649108284',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0232s ]
+
+[ 2017-05-13T12:19:54+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0113s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649194042',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0626s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvv37oe3ne9','1494649194109',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0208s ]
+
+[ 2017-05-13T12:20:24+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0118s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649224612',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0697s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo000000uutk2jui','1494649224686',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0126s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 53 行.
+
+[ 2017-05-13T12:20:43+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0128s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649243185',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0484s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvu369404v5','1494649243236',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0133s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 53 行.
+
+[ 2017-05-13T12:21:08+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0109s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649268400',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.1011s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvvkhgtrhn5','1494649268504',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0218s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 53 行.
+
+[ 2017-05-13T12:21:39+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0263s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649299333',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0545s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo000001grsk8ctv','1494649299390',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0215s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 53 行.
+
+[ 2017-05-13T12:22:10+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0108s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649330015',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0484s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvvcp2c4m3m','1494649330065',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0235s ]
+
+[ 2017-05-13T12:22:31+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0143s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649351392',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0648s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo000000mi8e53bh','1494649351460',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0132s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 54 行.
+
+[ 2017-05-13T12:24:20+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0126s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649460234',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0557s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvvb4b1pf8r','1494649460293',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0203s ]
+
+[ 2017-05-13T12:25:40+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0087s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649540236',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0425s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo0000007bg6bgrh','1494649540280',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0153s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 56 行.
+
+[ 2017-05-13T12:26:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0105s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649577241',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0481s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvufkre08ql','1494649577293',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0208s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 56 行.
+
+[ 2017-05-13T12:26:29+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0112s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649589686',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.1288s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvv83mp7o31','1494649589819',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0128s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 56 行.
+
+[ 2017-05-13T12:26:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0473s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649598520',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0367s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eovvvvvvp61o01tv','1494649598561',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.1213s ]
+NOTIC: [2] Cannot use a scalar value as an array E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 56 行.
+
+[ 2017-05-13T12:30:07+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0037s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649807322',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.0493s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo000000h0qs9afh','1494649807373',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0541s ]
+
+[ 2017-05-13T12:30:14+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0116s ]
+SQL: UPDATE `t_examination_option` SET `modifyTime`='1494649813859',`modifyBy`=NULL,`old`='1' WHERE ( optionId='eovvvvvuigrb56g4' ) [ RunTime:0.1297s ]
+SQL: INSERT INTO `t_examination_option` (`optionId`,`createTime`,`createBy`,`old`,`note`,`optionName`,`optionAttrs`,`typeId`) VALUES ('eo000000tui8en34','1494649813993',NULL,'0','is me！','NumOptionAttr','{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"}','1111') [ RunTime:0.0875s ]
+
+[ 2017-05-13T12:34:48+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T14:18:08+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T14:37:05+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow/optionId/eo000000h0qs9afh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( optionId='eo000000h0qs9afh' ) LIMIT 1   [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 68 行.
+
+[ 2017-05-13T14:37:31+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow/optionId/eo000000h0qs9afh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0361s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( optionId='eo000000h0qs9afh' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-13T14:38:06+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow/optionId/eo000000h0qs9afh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( optionId='eo000000h0qs9afh' ) LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 68 行.
+
+[ 2017-05-13T14:40:13+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow/optionId/eo000000h0qs9afh0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( optionId='eo000000h0qs9afh0' ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-13T14:47:08+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0115s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0006s ]
+
+[ 2017-05-13T14:47:57+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0124s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0008s ]
+
+[ 2017-05-13T14:49:18+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getIdenticalTypeOption/typeId/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( typeId='111' )  [ RunTime:0.0009s ]
+
+[ 2017-05-13T14:49:22+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getIdenticalTypeOption/typeId/1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( typeId='1111' )  [ RunTime:0.0013s ]
+
+[ 2017-05-13T14:49:45+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getIdenticalTypeOption/typeId/1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( typeId='1111' )  [ RunTime:0.0013s ]
+
+[ 2017-05-13T14:52:18+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getIdenticalTypeOption/typeId/1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( typeId='1111' )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+
+[ 2017-05-13T14:54:11+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getIdenticalTypeOption/typeId/1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( typeId='1111' )  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 130 行.
+
+[ 2017-05-13T14:58:30+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getIdenticalTypeOption/typeId/1111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `t_examination_option` WHERE ( typeId='1111' )  [ RunTime:0.0012s ]
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 131 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 131 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 131 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 131 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 131 行.
+NOTIC: [8] Use of undefined constant TURE - assumed 'TURE' E:\www\doudouyunyu\API\Home\Controller\ExaminationOptionController.class.php 第 131 行.
+
+[ 2017-05-13T15:14:16+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载控制器:ExaminationScheme
+
+[ 2017-05-13T15:15:16+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+ERR: 无法加载控制器:ExaminationScheme
+
+[ 2017-05-13T15:15:20+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载控制器:ExaminationScheme
+
+[ 2017-05-13T15:15:55+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+ERR: 参数错误或者未定义:name
+
+[ 2017-05-13T15:16:23+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005018s ]
+
+[ 2017-05-13T15:17:02+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+ERR: 参数错误或者未定义:name
+
+[ 2017-05-13T15:17:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/name/xx/options/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-05-13T15:18:36+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-05-13T15:18:41+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-05-13T15:18:57+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-05-13T15:18:58+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001389s ]
+
+[ 2017-05-13T15:18:59+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-05-13T15:19:00+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-05-13T15:19:00+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-05-13T15:19:01+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-05-13T15:19:18+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-05-13T15:20:14+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-05-13T17:05:49+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+ERR: 参数错误或者未定义:examinationName
+
+[ 2017-05-13T17:07:26+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0562s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0124s ]
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+
+[ 2017-05-13T17:08:41+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0129s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0111s ]
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+
+[ 2017-05-13T17:08:45+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0266s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0092s ]
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+
+[ 2017-05-13T17:08:55+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0523s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0137s ]
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+
+[ 2017-05-13T17:09:07+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0125s ]
+
+[ 2017-05-13T17:09:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0115s ]
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+ERR: 1054:Unknown column 'opitonName' in 'field list'
+ [ SQL语句 ] : SELECT `optionId`,`note`,`opitonName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+
+[ 2017-05-13T17:09:52+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0074s ]
+
+[ 2017-05-13T17:10:22+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0130s ]
+ERR: 1054:Unknown column 'opitonname' in 'field list'
+ [ SQL语句 ] : SELECT `optionid`,`note`,`opitonname`,`optionattrs`,`typeid` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+ERR: 1054:Unknown column 'opitonname' in 'field list'
+ [ SQL语句 ] : SELECT `optionid`,`note`,`opitonname`,`optionattrs`,`typeid` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  ) 
+
+[ 2017-05-13T17:11:10+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0102s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0099s ]
+SQL: SELECT `optionid`,`note`,`optionname`,`optionattrs`,`typeid` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0257s ]
+
+[ 2017-05-13T17:11:18+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0112s ]
+SQL: SELECT `optionId`,`note`,`optionname`,`optionattrs`,`typeid` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0005s ]
+
+[ 2017-05-13T17:11:20+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0065s ]
+SQL: SELECT `optionId`,`note`,`optionname`,`optionattrs`,`typeid` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0007s ]
+
+[ 2017-05-13T17:11:24+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0108s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0096s ]
+SQL: SELECT `optionId`,`note`,`optionname`,`optionattrs`,`typeid` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0005s ]
+
+[ 2017-05-13T17:12:11+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0131s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0128s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0014s ]
+
+[ 2017-05-13T17:12:13+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0281s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0143s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0009s ]
+
+[ 2017-05-13T17:13:21+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0098s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+
+[ 2017-05-13T17:13:35+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0116s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0110s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+
+[ 2017-05-13T17:14:46+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0168s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0085s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+
+[ 2017-05-13T17:14:50+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0111s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0106s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 45 行.
+NOTIC: [8] Undefined index: optionAttrs E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 46 行.
+
+[ 2017-05-13T17:15:28+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0086s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0008s ]
+
+[ 2017-05-13T17:16:05+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0114s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0013s ]
+
+[ 2017-05-13T17:17:05+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0102s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0009s ]
+SQL: INSERT INTO `t_examination_scheme` (`schemeId`,`createTime`,`createBy`,`old`,`note`,`examinationName`,`options`) VALUES ('esvvvvvvd9bvh25j','1494667025087',NULL,'0','null','xiaozhu','[{\"optionid\":\"eo0000008h4r7mlk\",\"note\":\"\\u90fd\\u662f\\u5f88\\u597d\",\"optionname\":null,\"optionattrs\":1111,\"typeid\":null},{\"optionid\":\"eo000000h0qs9afh\",\"note\":\"is me\\uff01\",\"optionname\":\"NumOptionAttr\",\"optionattrs\":{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"},\"typeid\":\"1111\"}]') [ RunTime:0.0721s ]
+
+[ 2017-05-13T17:18:33+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/createScheme/examinationName/xiaozhu/options/eo000000h0qs9afh,eo0000008h4r7mlk/schemeId/esvvvvvvd9bvh25j/note/zhazha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0121s ]
+SQL: SELECT `examinationName` FROM `t_examination_scheme` WHERE ( schemeId='esvvvvvvd9bvh25j' ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `t_examination_scheme` SET `modifyTime`='1494667113171',`modifyBy`=NULL,`old`='1' WHERE ( schemeId='esvvvvvvd9bvh25j' ) [ RunTime:0.0304s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0127s ]
+SQL: SELECT `optionId`,`note`,`optionName`,`optionAttrs`,`typeId` FROM `t_examination_option` WHERE (  optionId in("eo000000h0qs9afh","eo0000008h4r7mlk")  )  [ RunTime:0.0008s ]
+SQL: INSERT INTO `t_examination_scheme` (`schemeId`,`createTime`,`createBy`,`old`,`note`,`examinationName`,`options`) VALUES ('es000000pgbr50b3','1494667113221',NULL,'0','zhazha','xiaozhu','[{\"optionid\":\"eo0000008h4r7mlk\",\"note\":\"\\u90fd\\u662f\\u5f88\\u597d\",\"optionname\":null,\"optionattrs\":1111,\"typeid\":null},{\"optionid\":\"eo000000h0qs9afh\",\"note\":\"is me\\uff01\",\"optionname\":\"NumOptionAttr\",\"optionattrs\":{\"opType\":\"OP_NUM\",\"opGroupFlag\":\"xxx\",\"opGroupName\":\"\\u563f\\u563f\",\"defualt\":\"is me!\"},\"typeid\":\"1111\"}]') [ RunTime:0.0312s ]
+
+[ 2017-05-13T17:37:02+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0127s ]
+ERR: 1054:Unknown column 'schemeId' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `t_examination_option` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1  
+ERR: 1054:Unknown column 'schemeId' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `t_examination_option` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1  
+
+[ 2017-05-13T17:38:08+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-05-13T17:38:15+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0152s ]
+ERR: 1054:Unknown column 'schemeId' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `t_examination_option` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1  
+ERR: 1054:Unknown column 'schemeId' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `t_examination_option` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1  
+
+[ 2017-05-13T17:38:52+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0105s ]
+ERR: 1054:Unknown column 'schemeid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `t_examination_option` WHERE ( schemeid='es000000pgbr50b3' ) LIMIT 1  
+ERR: 1054:Unknown column 'schemeid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `t_examination_option` WHERE ( schemeid='es000000pgbr50b3' ) LIMIT 1  
+
+[ 2017-05-13T17:39:40+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001938s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `t_examination_scheme` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-05-13T17:39:49+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `t_examination_scheme` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Array to string conversion E:\www\doudouyunyu\API\Home\Controller\ExaminationSchemeController.class.php 第 82 行.
+
+[ 2017-05-13T17:40:13+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `t_examination_scheme` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-13T17:40:33+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `t_examination_scheme` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-05-13T17:41:19+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `t_examination_scheme` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-05-13T17:42:31+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `t_examination_scheme` WHERE ( schemeId='es000000pgbr50b3' ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-05-13T17:44:53+08:00 ] 127.0.0.1 /index.php/Home/ExaminationScheme/getScheme/schemeId/es000000pgbr50b34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `t_examination_scheme` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `t_examination_scheme` WHERE ( schemeId='es000000pgbr50b34' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-13T19:56:29+08:00 ] 127.0.0.1 /index.php/Home/ExaminationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载控制器:ExaminationDetail
+
+[ 2017-05-13T19:57:03+08:00 ] 127.0.0.1 /index.php/Home/examinationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载控制器:ExaminationDetail
+
+[ 2017-05-13T19:57:28+08:00 ] 127.0.0.1 /index.php/Home/examinationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载控制器:ExaminationDetail
+
+[ 2017-05-13T19:57:30+08:00 ] 127.0.0.1 /index.php/Home/examinationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载控制器:ExaminationDetail
+
+[ 2017-05-13T19:57:31+08:00 ] 127.0.0.1 /index.php/Home/examinationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载控制器:ExaminationDetail
+
+[ 2017-05-13T19:57:57+08:00 ] 127.0.0.1 /index.php/Home/examinationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载控制器:ExaminationDetail
+
+[ 2017-05-13T20:00:11+08:00 ] 127.0.0.1 /index.php/Home/examinationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载控制器:ExaminationDetail
+
+[ 2017-05-13T20:00:16+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:00:57+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:01:07+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:01:10+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:01:44+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003486s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:01:45+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:01:51+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:02:02+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index/xx/22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:02:55+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index/xx/22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:02:59+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:03:21+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:03:27+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/indexxx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+ERR: 非法操作:indexxx
+
+[ 2017-05-13T20:03:39+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:04:37+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:04:37+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:04:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:04:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:04:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:04:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:05:19+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:05:23+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:05:26+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:05:27+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:05:34+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+ERR: 非法操作:xx
+
+[ 2017-05-13T20:05:49+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+ERR: 非法操作:xx
+
+[ 2017-05-13T20:05:50+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+ERR: 非法操作:xx
+
+[ 2017-05-13T20:05:50+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+ERR: 非法操作:xx
+
+[ 2017-05-13T20:05:50+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+ERR: 非法操作:xx
+
+[ 2017-05-13T20:05:50+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+ERR: 非法操作:xx
+
+[ 2017-05-13T20:06:49+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/xx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+ERR: 非法操作:xx
+
+[ 2017-05-13T20:07:13+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:01+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:15+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:16+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:16+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:08:54+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `t_examination_option` [ RunTime:0.0167s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_examination_option` LIMIT 1   [ RunTime:0.1454s ]
+SQL: SELECT `optionId`,`optionName` FROM `t_examination_option` LIMIT 0,20   [ RunTime:0.0003s ]
+
+[ 2017-05-13T20:23:15+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:23:51+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:23:52+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:23:52+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:23:53+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:23:55+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:24:15+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:24:17+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:25:40+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:25:41+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:25:42+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:25:45+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:25:51+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOptions
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载控制器:ExaminationOptions
+
+[ 2017-05-13T20:25:55+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:26:00+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:26:24+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:29:06+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:29:08+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T20:30:02+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T20:30:35+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T20:30:37+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T20:30:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T20:30:38+08:00 ] 127.0.0.1 /index.php/Home/ExaminationOption/getRow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+ERR: 参数错误或者未定义:optionId
+
+[ 2017-05-13T20:30:45+08:00 ] 127.0.0.1 /index.php/Home/ExaminationDetail/getRow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+
+[ 2017-05-13T20:30:52+08:00 ] 127.0.0.1 /index.php/Home/ExaminationDetail/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+
